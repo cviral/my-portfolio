@@ -43,3 +43,5 @@ yarn-error.log*
 **/public/worker-*.js.map
 
 /.firebase
+
+package-lock.json
